@@ -37,4 +37,5 @@ A Java desktop chatbot for an e-commerce platform, built for Software Design 1
 - Mawande Msweli -261093525 
 - Sphiwe Nhlapo -260330787
 - Promise Sibiya - 260406406
+- 
 Software Design 1 (SDN150S), Lecturer: Mr S.O. Ekwe, Due: 8 November 2026
