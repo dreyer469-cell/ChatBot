@@ -13,7 +13,8 @@ public class Product{
       this.p2 = p2 ;
       this.p3 = p3 ;
       this.p4 = p4 ;
-  }//method gettin instances
+  }
+    //method getting instances
   public String getP1(){ 
       return p1 ; 
   }
@@ -26,7 +27,8 @@ public class Product{
   public String getP4(){
       return p4 ; 
   }
-}//oder class
+}
+//oder class
  class Order{
   // variables and datatypes that will store our ordernumbers
    String orderNum1 ; 
@@ -42,7 +44,8 @@ public class Product{
       double price1 ;
       double price2 ; 
       double price3; 
-      double price4; 
+      double price4;
+      ////Constructor for Price class
       public Prices(double price1 ,double price2 , double price3 , double price4 ){
          this.price1 = price1;
          this.price2 = price2 ;
