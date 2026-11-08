@@ -30,7 +30,7 @@ A Java desktop chatbot for an e-commerce platform, built for Software Design 1
 
 ## Team members
 - Bukho Macozoma -260020753
-- Liam Dreyer -260712728 
+- Liam Dreyer -261061453
 - Hlumelo Mnukwa - 261401688
 - Esona Msila - 260712728 
 - Jayiya Nelisa -260442224 
